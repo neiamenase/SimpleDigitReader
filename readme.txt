@@ -12,7 +12,15 @@ kiwisolver      1.0.1
 matplotlib      3.0.0   
 numpy           1.15.1  
 opencv-python   3.4.3.18
-pip             10.0.1  
+
+pip             10.0.1
+
+pip3 install --upgrade pip
+pip-18.0
+
+pip3 install pillow
+
+Pillow          5.2.0
 pyparsing       2.2.1   
 python-dateutil 2.7.3   
 scikit-learn    0.19.2  
