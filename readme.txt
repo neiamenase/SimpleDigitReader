@@ -1,13 +1,10 @@
 
 
-Source from:
+- Dataset from:
 THE MNIST DATABASE of handwritten digits
 http://yann.lecun.com/exdb/mnist/
 
-
-
-
-Program lang:
+- Program lang:
 Python3
 
 Python3 library:
@@ -22,4 +19,20 @@ scikit-learn    0.19.2
 setuptools      39.0.1  
 six             1.11.0  
 sklearn         0.0    
+
+
+- Feature extraction from Dr.Wong
+
+https://opencv.org
+https://www.tensorflow.org
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html
+
+
+
+
+- Alternative to sklearn, using graphlab: 
+https://www.youtube.com/watch?v=Ri6LhPrJcfE
+
+
+
 
