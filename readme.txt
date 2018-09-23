@@ -19,14 +19,23 @@ pip3 install --upgrade pip
 pip-18.0
 
 pip3 install pillow
-
 Pillow          5.2.0
+
 pyparsing       2.2.1   
 python-dateutil 2.7.3   
 scikit-learn    0.19.2  
 setuptools      39.0.1  
 six             1.11.0  
 sklearn         0.0    
+
+
+scipy's functions have gone deprecated,
+Thus, 
+
+scikit-image (skimage)
+imageio
+
+
 
 
 - Feature extraction from Dr.Wong
